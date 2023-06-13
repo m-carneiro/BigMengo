@@ -1,0 +1,6 @@
+venv/
+.idea/
+
+.env
+client_secret.json
+token.pickle
